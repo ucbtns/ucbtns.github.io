@@ -1,1 +1,3 @@
-# ucbtns-ucbtns.github.io
+# activeinference.github.io
+Active inference resources 🧠
+https://activeinference.github.io/
